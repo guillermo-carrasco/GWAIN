@@ -1,0 +1,18 @@
+enemicLila: 	2	1	1
+enemicBlau: 	10	3	2	
+enemicVerd:	20	5	10
+enemicGroc:	45	8	15
+enemicVerm:	60	5	15
+enemicVrmF:	60	2	8
+enemicBola:	90	20	50
+enemicCrea:	100	30	30
+#
+objecte1vida:	60
+objecteSalut:	10
+objectePower:	90
+objecteSpeed:	45
+objecteBomba:	90
+objecteInvis:	30
+objecteInven:	60
+10	15	5
+#
