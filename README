@@ -1,0 +1,37 @@
+GWAIN - Geometry Wars An Interdimensional Network
+=================================================
+     (or Game Without An Interesting Name)
+-------------------------------------------------
+
+Authors: Guillermo Carrasco and Oscar Argudo
+Acknowledgments: Jordi Santiago Provenzo (author of EMYL library)
+
+What is GWAIN?
+--------------
+GWAIN is a Shoot'em Up game developed in C++ and openGL.
+
+To play GWAIN, just download, compile, and execute it. This code is opensource
+and you are free to use and/or change it.
+
+Compiling GWAIN
+---------------
+A makefile is provided execute the correct g++ command, but you have to care
+about installing the required dependencies, which are the following ones:
+
+- Lib ogg
+- Lib vorbis
+- SDL
+- Corona lib (http://corona.sourceforge.net/)
+- GLUT
+- Lib png
+- Lib JPEG
+
+Except Corona lib, for which I have provided the link, all other libraries are
+usually available throughout the repositories of almost all linux distributions.
+
+I recommend you to download the development versions of the libraries.
+
+Once all dependencies has been installed, just type "make" in the root directory.
+
+To execute the game, type "./GWAIN", and enjoy!
+
